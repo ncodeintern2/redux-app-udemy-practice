@@ -1,0 +1,19 @@
+{
+  "name": "redux-app-udemy-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncodeintern2/redux-app-udemy-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncodeintern2/redux-app-udemy-practice/issues"
+  },
+  "homepage": "https://github.com/ncodeintern2/redux-app-udemy-practice#readme"
+}
